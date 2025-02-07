@@ -7,7 +7,9 @@ int number;
   
   //If there is no remainder print number + "Lige"
   if ((number % 2) == 0){
+    
   print(number + " Lige");
+  
   } else{
   //If theres is a remainder then print number + "Ulige" 
   print(number +" Ulige");
